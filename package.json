@@ -26,6 +26,8 @@
   },
   "devDependencies": {
     "@types/react": "~19.1.10",
+    "aws-cdk-lib": "^2.210.0",
+    "constructs": "^10.4.2",
     "typescript": "~5.9.2"
   }
 }
